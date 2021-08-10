@@ -21,6 +21,7 @@ Uma rota /starwars/films  do tipo GET que retorna o nome dos filmes da franquia 
 ### Como-rodar
 
 * Baixe as dependencias
+* $ npm i
 * Use o comando:
  $ npm start
 
